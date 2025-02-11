@@ -1,4 +1,7 @@
 
+![Capture1](https://github.com/user-attachments/assets/1cc8cb33-5086-4b96-8533-524c70e83d0e)
+
+
 The US Phone Number Validator is a web application developed using React that allows users to input and validate US phone numbers in real-time. The app leverages regular expressions (regex) to validate the phone number format, ensuring that the input matches the standard US phone number patterns. It checks for optional country codes, area codes, and valid phone number formats that include spaces or dashes.
 
 Key Features:
